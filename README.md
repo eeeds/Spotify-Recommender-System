@@ -1,5 +1,5 @@
-# Customer-Segmentation
-This project has been created to make a customer segmentation and it's part of a challenge called [Project-of-the-week](https://github.com/DataTalksClub/project-of-the-week/blob/main/2022-10-19-recommenders-1.md) that is being held by [Datatalks.club](https://datatalks.club/slack.html).
+# Spotify Recommender-System
+This project has been created to make a music recommender system and it's part of a challenge called [Project-of-the-week](https://github.com/DataTalksClub/project-of-the-week/blob/main/2022-10-19-recommenders-1.md) that is being held by [Datatalks.club](https://datatalks.club/slack.html).
 # Enviroment
 I'll create a conda enviroment for this project
 ## Create the enviroment
